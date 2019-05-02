@@ -1,9 +1,10 @@
-var tabItem = new MetroTabItem() {Name = "MainMenu"};
+<!--left-side-panel
 * Om Meg
 * CV
 * Utvalg av arbeider
 * Annet
 * Kontakt
+-->
 
 # Cilke Konservering
 ## Om Meg
